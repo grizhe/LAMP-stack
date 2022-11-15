@@ -1,0 +1,29 @@
+/* Tag definitions */
+
+h1 {
+	color: blue;
+}
+
+h2 {
+	display: block;
+    font-size: 1em;
+    margin-top: 2em;
+    margin-bottom: 6em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+
+/* The following are class definitions */
+.red {
+	color: red;
+}
+
+.green {
+	color: green;
+}
